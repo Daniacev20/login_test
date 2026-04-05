@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<script>
+		let time = "2/8/2026";
+		let formatted = time.split("/").map(n => { return n.length < 2 ? "0" + n : n }).reverse();
+		document.write(formatted.join());
+	</script>
+</body>
+</html>

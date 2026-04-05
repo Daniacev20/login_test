@@ -1,0 +1,44 @@
+[
+	{
+		"username": "Rhea",
+		"email": "pgy.bsn@gmail.com",
+		"password": "buttercup23@",
+		"phone": null,
+		"isAdmin": true
+	},
+	{
+		"username": "Dave",
+		"email": "dave@gmail.com",
+		"password": "micasa1234$",
+		"phone": null,
+		"isAdmin": true
+	},
+	{
+		"username": "NPC",
+		"email": "justauser@gmail.com",
+		"password": "imarobot1.0",
+		"phone": null,
+		"isAdmin": false
+	},
+	{
+		"username": "josejose",
+		"email": "josejose@gmail.com",
+		"password": "generic123#",
+		"phone": "8090001113",
+		"isAdmin": false
+	},
+	{
+		"username": "ezioauditore",
+		"email": "ezioauditore@gmail.com",
+		"password": "generic123#",
+		"phone": "8090001112",
+		"isAdmin": false
+	},
+	{
+		"username": "juandelospalotes",
+		"email": "juandelospalotes@gmail.com",
+		"password": "generic123#",
+		"phone": "8090001111",
+		"isAdmin": false
+	}
+]

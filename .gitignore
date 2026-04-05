@@ -1,0 +1,8 @@
+node_modules/
+testing/
+db_scripts/
+tmp/
+.env
+.log
+.DS_Store
+README.md
